@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/client1.dir/Client.cpp.o  -o client1  -lpthread 

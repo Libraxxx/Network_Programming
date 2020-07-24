@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/client2.dir/Client.cpp.o  -o client2  -lws2_32 

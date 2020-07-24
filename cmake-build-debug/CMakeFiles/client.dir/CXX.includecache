@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/libra/ClionPRO/Client.cpp
+windows.h
+-
+WinSock2.h
+-
+unistd.h
+-
+arpa/inet.h
+-
+string.h
+-
+thread
+-
+iostream
+-
+

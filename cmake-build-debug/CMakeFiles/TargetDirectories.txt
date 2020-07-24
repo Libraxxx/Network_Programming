@@ -1,0 +1,6 @@
+/home/libra/ClionPRO/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/libra/ClionPRO/cmake-build-debug/CMakeFiles/client1.dir
+/home/libra/ClionPRO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/libra/ClionPRO/cmake-build-debug/CMakeFiles/mian.dir
+/home/libra/ClionPRO/cmake-build-debug/CMakeFiles/client.dir
+/home/libra/ClionPRO/cmake-build-debug/CMakeFiles/server.dir

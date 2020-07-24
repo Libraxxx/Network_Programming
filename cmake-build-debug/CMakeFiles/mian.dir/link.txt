@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/mian.dir/main.cpp.o  -o mian 
